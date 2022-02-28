@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @0414dcano
+- 👀 I’m interested in cyber-security
+- 🌱 I’m currently learning multiplatform development apps
+- 💞️ I’m looking to collaborate on java projects
+- 📫 How to reach me 0414dcano@e-itaca.es
